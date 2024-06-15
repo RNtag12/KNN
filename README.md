@@ -24,7 +24,6 @@ Hyperparameter Optimization: Finding the optimal 'k' value by plotting error rat
 The dataset is loaded using Pandas, and the features are scaled using the StandardScaler to ensure that all features contribute equally to the distance calculation in KNN.
 
 ```python
-Copy code
 import numpy as np
 import pandas as pd
 import seaborn as sns
