@@ -1,4 +1,4 @@
-# KNN
+
 # K-Nearest Neighbors (KNN) Classifier Implementation and Optimization
 This project explains how to implement and optimize a K-Nearest Neighbors (KNN) classifier using Python. The project involves data preprocessing, visualization, model training, and performance evaluation to achieve an optimal K value for the classifier.
 
